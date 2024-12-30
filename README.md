@@ -4,15 +4,15 @@
 
 1. Interface d'accueil
 
-   ![google welcome](https://github.com/dietrich-hub/temperature-convert/blob/main/screens/froid.jpg "google welcome") 
+   ![google welcome](https://github.com/dietrich-hub/google-clone/blob/main/screen/1.png "google welcome") 
 
 2. Exemple de recherche de mot
 
-   ![google search word](https://github.com/dietrich-hub/temperature-convert/blob/main/screens/froid-enter.jpg "google search word")
+   ![google search word](https://github.com/dietrich-hub/google-clone/blob/main/screen/2.png "google search word")
 
 3. Exemple de recherche d'image
 
-   ![google search image](https://github.com/dietrich-hub/temperature-convert/blob/main/screens/chaud.jpg "google search image") 
+   ![google search image](https://github.com/dietrich-hub/google-clone/blob/main/screen/3.png "google search image") 
 
 
 ## Getting Started
