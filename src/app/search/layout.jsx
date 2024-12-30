@@ -1,10 +1,14 @@
 import {SearchHeader} from "@/components/SearchHeader";
+import { Suspense } from "react";
 
 export default function SearchRootLayout({children}) {
     return (
-        <div>
+        <Suspense>
+            <div>
             <SearchHeader/>
             {children}
         </div>
+        </Suspense>
+        
     )
 }
