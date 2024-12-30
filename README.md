@@ -1,4 +1,4 @@
-# Bienvenu la première version du clone de google
+# Bienvenue dans la première version du clone de google
 
 ## Voici les images de rendu
 
